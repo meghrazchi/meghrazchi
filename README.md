@@ -49,28 +49,32 @@ I design backend systems that stay **boring where reliability matters** and beco
 My work sits at the intersection of:
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#3A1078', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#220A47', 'secondaryColor': '#5B2C8A', 'tertiaryColor': '#7A4EB7', 'lineColor': '#3A1078' }}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#3A1078', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#220A47', 'secondaryColor': '#8E23C0', 'tertiaryColor': '#1FA1F7', 'quaternaryColor': '#FF7A59', 'lineColor': '#3A1078' }}}%%
 mindmap
   root((Backend Architecture))
-    Distributed Systems
-      Event-driven services
-      API facades
-      Resilient microservices
-    Cloud Platform
-      Kubernetes
-      AWS / GCP
-      Terraform
-      Docker
-    AI Enablement
-      LLM integrations
-      RAG pipelines
-      Agentic workflows
-      MCP-ready systems
-    Engineering Quality
-      Type safety
-      Observability
-      Security
-      Maintainable codebases
+    Distributed Systems:::purple
+      Event-driven services:::purple
+      API facades:::purple
+      Resilient microservices:::purple
+    Cloud Platform:::magenta
+      Kubernetes:::magenta
+      AWS / GCP:::magenta
+      Terraform:::magenta
+      Docker:::magenta
+    AI Enablement:::blue
+      LLM integrations:::blue
+      RAG pipelines:::blue
+      Agentic workflows:::blue
+      MCP-ready systems:::blue
+    Engineering Quality:::coral
+      Type safety:::coral
+      Observability:::coral
+      Security:::coral
+      Maintainable codebases:::coral
+  classDef purple fill:#3A1078,stroke:#220A47,color:#FFFFFF;
+  classDef magenta fill:#8E23C0,stroke:#5D1690,color:#FFFFFF;
+  classDef blue fill:#1FA1F7,stroke:#1679B8,color:#FFFFFF;
+  classDef coral fill:#FF7A59,stroke:#D85D41,color:#FFFFFF;
 ```
 
 ---
