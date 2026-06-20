@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:22c55e&height=220&section=header&text=Behzad%20Meghrazchi&fontSize=48&fontAlignY=38&desc=Principal%20Backend%20Architect%20%7C%20Cloud%20%26%20AI%20Systems&descAlignY=58&animation=fadeIn" width="100%" alt="Behzad Meghrazchi banner" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Senior+Backend+Engineer;Distributed+Systems+%E2%80%A2+Cloud+Architecture;LLM+Integration+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Munich%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
 <p>
