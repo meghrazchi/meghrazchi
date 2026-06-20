@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Senior+Backend+Engineer;Distributed+Systems+%E2%80%A2+Cloud+Architecture;LLM+Integration+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Munich%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=333333&center=true&vCenter=true&width=900&lines=Senior+Backend+Engineer;Distributed+Systems+%E2%80%A2+Cloud+Architecture;LLM+Integration+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Munich%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
 <p>
   <a href="https://meghrazchi.com">
@@ -49,6 +49,7 @@ I design backend systems that stay **boring where reliability matters** and beco
 My work sits at the intersection of:
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#3A1078', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#220A47', 'secondaryColor': '#1E40AF', 'tertiaryColor': '#0F172A', 'lineColor': '#8B5CF6' }}}%%
 mindmap
   root((Backend Architecture))
     Distributed Systems
@@ -266,14 +267,18 @@ current_status:
 
 ### Building something backend-heavy, cloud-native, or AI-enabled?
 
-```txt
-POST /contact
+<div style="display: inline-block; padding: 16px 22px; border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; background: #111827; text-align: left;">
+  <div style="margin-bottom: 12px; font-weight: 700; color: #EDE9FE;">POST /contact</div>
+<pre style="margin: 0; text-align: left; color: #E5E7EB; background: transparent;">
 {
   "topic": "resilient digital systems",
   "channels": ["portfolio", "linkedin", "github"],
   "response": "let's build the backbone"
 }
-```
+</pre>
+</div>
+
+<br />
 
 <p>
   <a href="https://meghrazchi.com">
