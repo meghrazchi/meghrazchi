@@ -192,15 +192,17 @@ I’m especially interested in production AI systems that are:
 
 <div align="center">
 
-<a href="https://github.com/meghrazchi/website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=website&theme=tokyonight&hide_border=true" alt="website repository" />
-</a>
-<a href="https://github.com/meghrazchi/go-boilerplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=go-boilerplate&theme=tokyonight&hide_border=true" alt="go-boilerplate repository" />
-</a>
-<a href="https://github.com/meghrazchi/rudix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=rudix&theme=tokyonight&hide_border=true" alt="rudix repository" />
-</a>
+<div style="display: inline-block; padding: 18px; border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+  <a href="https://github.com/meghrazchi/website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=website&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true" alt="website repository" />
+  </a>
+  <a href="https://github.com/meghrazchi/go-boilerplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=go-boilerplate&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true" alt="go-boilerplate repository" />
+  </a>
+  <a href="https://github.com/meghrazchi/rudix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=rudix&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true" alt="rudix repository" />
+  </a>
+</div>
 
 </div>
 
@@ -210,12 +212,18 @@ I’m especially interested in production AI systems that are:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=meghrazchi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=meghrazchi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<div style="display: inline-block; padding: 18px; border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghrazchi&show_icons=true&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=meghrazchi&theme=default&background=ffffff&ring=3A1078&fire=3A1078&currStreakLabel=3A1078&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghrazchi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghrazchi&theme=github-light&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=meghrazchi&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1" width="100%" alt="GitHub trophies" />
+  <div align="center" style="margin-top: 12px; color: #333333;">
+    <strong>GitHub trophies</strong>
+    <br />
+    <sub>Temporarily unavailable due to upstream rendering limits.</sub>
+  </div>
+</div>
 
 </div>
 
