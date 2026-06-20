@@ -49,7 +49,6 @@ I design backend systems that stay **boring where reliability matters** and beco
 My work sits at the intersection of:
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#3A1078', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#220A47', 'secondaryColor': '#3A1078', 'tertiaryColor': '#3A1078', 'lineColor': '#3A1078' }}}%%
 mindmap
   root((Backend Architecture))
     Distributed Systems
