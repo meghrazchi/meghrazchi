@@ -191,13 +191,19 @@ I’m especially interested in production AI systems that are:
 
 <div align="center">
 
-<div style="display: inline-block; padding: 18px; border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
   <a href="https://github.com/meghrazchi/website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=website&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true" alt="website repository" />
   </a>
+</div>
+
+<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
   <a href="https://github.com/meghrazchi/go-boilerplate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=go-boilerplate&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true" alt="go-boilerplate repository" />
   </a>
+</div>
+
+<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
   <a href="https://github.com/meghrazchi/rudix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghrazchi&repo=rudix&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true" alt="rudix repository" />
   </a>
@@ -211,13 +217,20 @@ I’m especially interested in production AI systems that are:
 
 <div align="center">
 
-<div style="display: inline-block; padding: 18px; border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghrazchi&show_icons=true&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</div>
+
+<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=meghrazchi&theme=default&background=ffffff&ring=3A1078&fire=3A1078&currStreakLabel=3A1078&hide_border=true" alt="GitHub streak" />
+</div>
 
+<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghrazchi&theme=github-light&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
+</div>
 
-  <div align="center" style="margin-top: 12px; color: #333333;">
+<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+  <div align="center" style="margin-top: 0; color: #333333;">
     <strong>GitHub trophies</strong>
     <br />
     <sub>Temporarily unavailable due to upstream rendering limits.</sub>
@@ -274,16 +287,14 @@ current_status:
 
 ### Building something backend-heavy, cloud-native, or AI-enabled?
 
-<div style="display: inline-block; padding: 16px 22px; border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; background: #111827; text-align: left;">
-  <div style="margin-bottom: 12px; font-weight: 700; color: #EDE9FE;">POST /contact</div>
-<pre style="margin: 0; text-align: left; color: #E5E7EB; background: transparent;">
+<div style="margin-bottom: 12px; font-weight: 700; color: #EDE9FE;">POST /contact</div>
+<pre style="margin: 0 0 12px; text-align: left; color: #E5E7EB; background: transparent;">
 {
   "topic": "resilient digital systems",
   "channels": ["portfolio", "linkedin", "github"],
   "response": "let's build the backbone"
 }
 </pre>
-</div>
 
 <br />
 
