@@ -74,21 +74,6 @@ mindmap
 
 ---
 
-## 🛰️ System Telemetry
-
-<div align="center">
-
-| Signal | Value | Runtime Meaning |
-|---|---:|---|
-| 🟢 **TOTAL_UPTIME** | `99.98%` | reliability-first engineering |
-| 🚀 **CODE_SHIPPED** | `142k+ LOC` | production-grade delivery |
-| ⚡ **API_LATENCY** | `42ms` | optimized critical paths |
-| 🌍 **PROJECTS_DEPLOYED** | `24` | systems built for real users |
-
-</div>
-
----
-
 ## 🧠 Operating Principles
 
 > Complexity is the enemy of reliability. I design systems that remain transparent, observable, and manageable at scale.
@@ -153,40 +138,6 @@ mindmap
 
 ---
 
-## 🤖 AI / LLM Engineering
-
-```txt
-llm_pipeline/
-├── ingest        → PDFs, DOCX, TXT, business documents
-├── chunk         → semantic splitting, metadata, ownership
-├── embed         → vector search, hybrid retrieval, reranking
-├── reason        → prompts, tools, agents, confidence signals
-├── cite          → source-grounded answers
-└── observe       → traces, usage metrics, evaluation loops
-```
-
-I’m especially interested in production AI systems that are:
-
-- 🧾 **source-grounded**
-- 🧠 **context-aware**
-- 🧰 **tool-enabled**
-- 🔍 **observable**
-- 🧪 **evaluated**
-- 🛡️ **safe enough for real workflows**
-
----
-
-## 🚀 Featured Systems
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 [**Rudix**](https://gitlab.com/benza-group/rudix) | AI Document Q&A assistant with RAG, citations, confidence signals, and usage metrics. | FastAPI · Next.js · Qdrant · Celery |
-| 💸 [**BillPilot**](https://gitlab.com/benza-group/bill-pilot) | Workspace-first financial operations platform for accounts, budgets, receipts, recurring activity, and reporting. | Spring Boot · Kotlin · Angular · PostgreSQL · OpenAI |
-| 🚲 [**Bike Case Tracker**](https://gitlab.com/benza-group/bike-case-tracker) | Bike-theft case browser with BFF architecture, JWT auth, Prisma/Postgres sessions, Redis cache, Docker runtime, and CI-ready tests. | Next.js · TypeScript · Prisma · Postgres · Redis |
-| 📚 [**Word Ladder**](https://gitlab.com/benza-group/word-ladder) | Vocabulary learning platform with spaced review, semantic search, AI conversation practice, writing review, PWA support, and CI/CD. | React · NestJS · Prisma · pgvector · OpenAI |
-
----
-
 ## 🧬 GitHub Lab
 
 <div align="center">
@@ -217,25 +168,27 @@ I’m especially interested in production AI systems that are:
 
 <div align="center">
 
-<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghrazchi&show_icons=true&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</div>
-
-<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=meghrazchi&theme=default&background=ffffff&ring=3A1078&fire=3A1078&currStreakLabel=3A1078&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); margin-bottom: 12px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghrazchi&theme=github-light&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
-</div>
-
-<div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
-  <div align="center" style="margin-top: 0; color: #333333;">
-    <strong>GitHub trophies</strong>
-    <br />
-    <sub>Temporarily unavailable due to upstream rendering limits.</sub>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding: 8px;">
+      <div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghrazchi&show_icons=true&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true&rank_icon=github" alt="GitHub stats" />
+      </div>
+    </td>
+    <td align="center" style="padding: 8px;">
+      <div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+        <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=meghrazchi&theme=default&background=ffffff&ring=3A1078&fire=3A1078&currStreakLabel=3A1078&hide_border=true" alt="GitHub streak" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding: 8px;">
+      <div style="display: inline-block; padding: 14px; border: 1.5px solid #cbd5e1; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08); width: 100%; box-sizing: border-box;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghrazchi&theme=github-light&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -246,12 +199,12 @@ I’m especially interested in production AI systems that are:
 ```mermaid
 timeline
     title Backend / Cloud / AI Engineering Path
-    2025 : Senior Backend Developer @ Arculus GmbH
-         : Performance, security, API integration, Kubernetes scalability, LLM features
-    2024 : Senior Backend Developer @ E.ON Digital Technology
-         : AWS CDK API facade, Auth0, observability, TDD, New Relic
     2022 : Technical Lead / Senior Backend Expert @ ONCARE GmbH
          : Healthcare backend architecture, query performance, CI/CD, typed services
+    2024 : Senior Backend Developer @ E.ON Digital Technology
+         : AWS CDK API facade, Auth0, observability, TDD, New Relic
+    2025 : Senior Backend Developer @ Arculus GmbH
+         : Performance, security, API integration, Kubernetes scalability, LLM features
 ```
 
 ---
